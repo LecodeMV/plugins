@@ -1,0 +1,6 @@
+{
+  "name": "Lecode's MV plugins",
+  "tagline": "Some plugins and tools for the game engine RPG Maker MV",
+  "body": "### Parameter Completer Tool\r\nThis tool generate plugin parameters easily.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
